@@ -64,7 +64,7 @@ class ProfilePage extends StatelessWidget {
             ),
           ),
           const Text(
-            "Rakul Preet",
+            "Mohamed Mahmoud",
             style: TextStyle(fontSize: 30, fontWeight: FontWeight.w300),
           ),
           const SizedBox(height: 8),
@@ -119,7 +119,7 @@ class ProfilePage extends StatelessWidget {
               ),
             ],
           ),
-          const SizedBox(height: 40),
+          const SizedBox(height: 30),
           Expanded(
             child: Container(
               padding: const EdgeInsets.only(top: 40, left: 20, right: 20),
